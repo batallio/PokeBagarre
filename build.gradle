@@ -11,7 +11,7 @@ repositories {
 }
 
 javafx {
-  version = "11"
+  version = "21"
   modules = ['javafx.controls']
 }
 
@@ -27,7 +27,7 @@ dependencies {
 
 java {
   toolchain {
-    languageVersion = JavaLanguageVersion.of(11)
+    languageVersion = JavaLanguageVersion.of(21)
   }
 }
 
