@@ -5,3 +5,11 @@ build/
 # IntelliJ
 out/
 .idea/
+
+# Other
+*.log
+*.tmp
+*.swp
+.DS_Store
+# VSCode
+.vscode/
